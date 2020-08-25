@@ -39,7 +39,9 @@
 
 
     <div class="container-fluid">
-
+        <div>
+            <a href="WebVisualizations/Landing.html">Landing</a>
+        </div>
         <div class="row justify-content-center">
             <!--<div class="container_top">-->
                 <div id="container1" class="col-lg-6 col-sm-12">
