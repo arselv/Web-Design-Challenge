@@ -80,7 +80,7 @@
                             <div class = "column">
                                 <div>
                                     <a href="MaxTempPlot.html">
-                                        <img class="fig2_main" src="Resources/assets/images/Fig1.png" />
+                                        <img class="fig2_main" src="WebVisualizations/Resources/assets/images/Fig1.png" />
                                     </a>
                                 </div>
                                 <div>
