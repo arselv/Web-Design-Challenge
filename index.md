@@ -10,7 +10,7 @@
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="Landing.html">Landing</a>
+        <a class="navbar-brand" href="WebVisualizations/Landing.html">Landing</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -21,17 +21,17 @@
                   Plots
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="MaxTempPlot.html">Max Temperature</a>
-                  <a class="dropdown-item" href="HumidityPlot.html">Humidity</a>
-                  <a class="dropdown-item" href="CloudinessPlot.html">Cloudiness</a>
-                  <a class="dropdown-item" href="WindSpeedPlot.html">Wind Speed</a>
+                  <a class="dropdown-item" href="WebVisualizations/MaxTempPlot.html">Max Temperature</a>
+                  <a class="dropdown-item" href="WebVisualizations/HumidityPlot.html">Humidity</a>
+                  <a class="dropdown-item" href="WebVisualizations/CloudinessPlot.html">Cloudiness</a>
+                  <a class="dropdown-item" href="WebVisualizations/WindSpeedPlot.html">Wind Speed</a>
                 </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Comparisons.html">Comparisons</a>
+              <a class="nav-link" href="WebVisualizations/Comparisons.html">Comparisons</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="Data.html">Data</a>
+                <a class="nav-link" href="WebVisualizations/Data.html">Data</a>
             </li>
           </ul>
         </div>
@@ -39,9 +39,6 @@
 
 
     <div class="container-fluid">
-        <div>
-            <a href="WebVisualizations/Landing.html">Landing</a>
-        </div>
         <div class="row justify-content-center">
             <!--<div class="container_top">-->
                 <div id="container1" class="col-lg-6 col-sm-12">
@@ -50,7 +47,7 @@
                         <h1 class="header_one">Summary: Latitude vs. X</h1>
                         <hr/>
                         <div>
-                        <img class="fig1_main" src="Resources/assets/images/Fig1.png" />
+                        <img class="fig1_main" src="WebVisualizations/Resources/assets/images/Fig1.png" />
                         <p>
                             The purpose of this project was to analyze how weather changes as
                             you get closer to the equator.  To accomplish this analysis, we first
@@ -85,19 +82,19 @@
                                 </div>
                                 <div>
                                     <a href="HumidityPlot.html">
-                                        <img class="fig2_main" src="Resources/assets/images/Fig2.png" />
+                                        <img class="fig2_main" src="WebVisualizations/Resources/assets/images/Fig2.png" />
                                     </a>
                                 </div>
                             </div>
                             <div class="column">
                                 <div>
                                     <a href="CloudinessPlot.html">
-                                        <img class="fig2_main" src="Resources/assets/images/Fig3.png" />
+                                        <img class="fig2_main" src="WebVisualizations/Resources/assets/images/Fig3.png" />
                                     </a>
                                 </div>
                                 <div>
                                     <a href="WindSpeedPlot.html">
-                                        <img class="fig2_main" src="Resources/assets/images/Fig4.png" />
+                                        <img class="fig2_main" src="WebVisualizations/Resources/assets/images/Fig4.png" />
                                     </a>
                                 </div>
                             </div>
